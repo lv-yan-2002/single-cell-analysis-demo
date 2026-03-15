@@ -1,0 +1,11 @@
+# 排除结果文件夹下的所有文件
+results/
+
+# 排除 R 工作空间文件
+*.RData
+*.Rhistory
+*.Rproj.user/
+
+# 排除临时文件
+.DS_Store
+*.tmp
